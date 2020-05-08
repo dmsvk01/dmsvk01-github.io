@@ -8,7 +8,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 이름 : 최은총
 전공 : 전산전자공학부 (컴퓨터 공학심화), 법 2전공 or 부전공 예정
-
+```
 
 ### 실적
 
